@@ -3,7 +3,11 @@
   display: none;
 }
 
-#tag-2 {
+#wall #tag-2 {
+  display: none;
+}
+
+#wall .parent #tag-5{
   display: none;
 }
 
