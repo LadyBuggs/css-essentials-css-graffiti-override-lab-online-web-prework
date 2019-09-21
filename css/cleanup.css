@@ -16,10 +16,10 @@ div#wall #tag-4  {
   display:none;
 }
 
-.parent #tag-6{
-  display: none;
-}
+
 
 div#wall .parent #tag-5.slick {
   display:none;
+}.parent #tag-6{
+  display: none;
 }
